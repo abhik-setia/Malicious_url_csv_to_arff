@@ -1,0 +1,14 @@
+@RELATION Malicious URLs
+@ATTRIBUTE Malicious_website string 
+@ATTRIBUTE Server_Ip_address string 
+@ATTRIBUTE Country string 
+@ATTRIBUTE server string 
+@ATTRIBUTE Malicious_files real 
+@ATTRIBUTE Suspicious_files real 
+@ATTRIBUTE Potentially_Suspicious_files real 
+@ATTRIBUTE Clean_files real 
+@ATTRIBUTE External_links_detected real 
+@ATTRIBUTE Iframes_scanned real 
+@ATTRIBUTE Blacklisted {True,False} 
+@ATTRIBUTE Malicious {True, False}
+@DATA
