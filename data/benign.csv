@@ -167,8 +167,7 @@ harvard.edu/,52.87.67.209,United States,cloudflare-nginx,0,0,0,0,2635,0,no
 namejet.com/,98.124.250.30,United States,Unknown,0,0,0,0,21,0,no
 live.com/,65.55.118.92,United States,Microsoft-IIS/8.5,0,0,0,0,0,0,no
 xing.com/,109.233.157.254,Germany(DE),unknown,0,0,0,0,2584,0,no
-amzn.to/,67.199.248.12,"United States
-",Server,0,0,0,0,3254,0,no
+amzn.to/,67.199.248.12,United States,Server,0,0,0,0,3254,0,no
 latimes.com/,192.187.93.86,United States,Apache-Coyote/1.1,0,0,0,0,1258,0,no
 npr.org/,216.35.221.76,United States,Apache,0,0,0,0,987,0,no
 opera.com/,82.145.215.49,Great Britain,Unknown,0,0,0,0,584,0,no

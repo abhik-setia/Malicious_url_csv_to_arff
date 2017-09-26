@@ -19,11 +19,11 @@ def read_csv():
 	
 	for feature in feature_columns_to_use:
 		if feature=="Malicious_website" or feature=="Country" or feature=="server" or feature=="Server_Ip_address":
-			arff_file.write("@ATTRIBUTE "+feature +" string \n")
+			arff_file.write("@ATTRIBUTE "+feature +" STRING \n")
 		elif feature=="Blacklisted":
 			arff_file.write("@ATTRIBUTE "+feature +" {yes,no} \n")
 		else:
-			arff_file.write("@ATTRIBUTE "+feature +" real \n")	
+			arff_file.write("@ATTRIBUTE "+feature +" NUMERIC \n")	
 	
 	###PREDEFINED USER FEATURES#######
 	arff_file.write("@ATTRIBUTE Malicious {0,1}\n") 
@@ -31,17 +31,29 @@ def read_csv():
 
 	for b_urls in b_data.itertuples():
 		buff=""
-		for index in range(0,len(feature_columns_to_use)+1):
-			if index!=0:
-				buff+=str(b_urls[index])+","
+		for index in range(1,len(feature_columns_to_use)+1):
+			feature=feature_columns_to_use[index-1]
+			if feature=="Malicious_website" or feature=="Country" or feature=="server" or feature=="Server_Ip_address":
+				buff+="'"
+				buff+=str(b_urls[index])
+				buff+="',"
+			else:
+				buff+=str(b_urls[index])
+				buff+=","	
 		buff+="0"
 		arff_file.write(buff+"\n")
 
 	for m_urls in m_data.itertuples():
 		buff=""
-		for index in range(0,len(feature_columns_to_use)+1):
-			if index!=0:
-				buff+=str(m_urls[index])+","
+		for index in range(1,len(feature_columns_to_use)+1):
+			feature=feature_columns_to_use[index-1]
+			if feature=="Malicious_website" or feature=="Country" or feature=="server" or feature=="Server_Ip_address":
+				buff+="'"
+				buff+=str(m_urls[index])
+				buff+="',"
+			else:
+				buff+=str(m_urls[index])
+				buff+=","	
 		buff+="1"
 		arff_file.write(buff+"\n")
 	
