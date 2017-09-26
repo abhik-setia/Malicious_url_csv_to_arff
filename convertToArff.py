@@ -11,7 +11,7 @@ def read_csv():
 
 	arff_file=open('train.arff',"w")
 
-	RELATION_NAME="Malicious URLs"
+	RELATION_NAME="Malicious_URLs"
 	arff_file.write("@RELATION " + RELATION_NAME + "\n")
 	
 	feature_columns_to_use=['Malicious_website','Server_Ip_address','Country','server','Malicious_files','Suspicious_files'
@@ -21,12 +21,12 @@ def read_csv():
 		if feature=="Malicious_website" or feature=="Country" or feature=="server" or feature=="Server_Ip_address":
 			arff_file.write("@ATTRIBUTE "+feature +" string \n")
 		elif feature=="Blacklisted":
-			arff_file.write("@ATTRIBUTE "+feature +" {True,False} \n")
+			arff_file.write("@ATTRIBUTE "+feature +" {yes,no} \n")
 		else:
 			arff_file.write("@ATTRIBUTE "+feature +" real \n")	
 	
 	###PREDEFINED USER FEATURES#######
-	arff_file.write("@ATTRIBUTE Malicious {True, False}\n") 
+	arff_file.write("@ATTRIBUTE Malicious {0,1}\n") 
 	arff_file.write("@DATA\n")
 
 	for b_urls in b_data.itertuples():
