@@ -12,413 +12,413 @@
 @ATTRIBUTE Blacklisted {yes,no} 
 @ATTRIBUTE Malicious {0,1}
 @DATA
-http://tumblr.com ,174.121.194.34,United States,Unknown,0,0,0,0,28,0,0
-http://wikipedia.org, 91.198.174.192,United States,mw1188.eqiad.wmnet,0,0,0,0,35,0,0
-http://bbc.co.uk ,212.58.241.131,Great Britain,Unknown,0,0,0,0,101,0,0
-http://aljazeera.com ,198.78.201.252,United States,Microsoft-IIS/10.0,0,0,0,0,303,0,0
-http://reddit.com ,72.247.244.88,United States,snooserv,0,0,0,0,205,0,0
-http://imgur.com ,173.231.140.219,United States,cat factory 1.0,0,0,0,0,1311,0,0
-http://google.com ,172.217.11.174,Poland,gws,0,0,0,0,2200,0,0
-http://youtube.com ,74.125.65.91,Poland,YouTube Frontend Proxy,0,0,0,0,68,0,0
-http://yahoo.com ,98.137.149.56,United States,ATS,0,0,0,0,79,0,0
-http://hotmail.com ,65.55.72.135,Ireland,Microsoft-IIS/8.5,0,0,0,0,506,0,0
-http://bing.com ,65.55.175.254,United States,Unknown,0,0,0,0,304,0,0
-http://digg.com ,64.191.203.30,United States,TornadoServer/2.3,0,0,0,0,201,0,0
-http://theonion.com ,97.107.137.164,United States,PWS/8.3.0.8,0,0,0,0,312,0,0
-http://hush.com ,65.39.178.43,Canada,nginx/1.10.2,0,0,0,0,1458,0,0
-http://gamespot.com ,216.239.113.172,United States,nginx/1.8.0,0,0,0,0,0,0,0
-http://ign.com ,69.10.25.46,United States,instart/nginx,0,0,0,0,28,0,0
-http://cracked.com, 98.124.248.77,United States,Apache,0,0,0,0,10,0,0
-http://sidereel.com , 144.198.29.112,United States,Apache/2.4.7 (Ubuntu),0,0,0,0,9,0,0
-http://github.com ,207.97.227.239,United States,GitHub.com,0,1,0,0,1546,0,0
-http://thepiratebay.org ,194.71.107.15,United States,cloudflare-nginx,0,0,0,0,132,0,0
-http://mininova.com ,80.94.76.5,Netherlands,nginx/1.10.1 (Ubuntu),0,0,0,0,879,0,0
-http://btjunkie.com ,93.158.65.211,unknown,nginx,0,0,0,0,259,0,0
-http://demonoid.com, 62.149.24.66,France,nginx,0,0,0,0,1300,0,0
-http://demonoid.me ,62.149.24.67,France,nginx,0,0,0,0,15,0,0
-http://facebook.com ,31.13.77.36,Ireland,Unknown,0,0,0,0,1245,0,0
-http://twitter.com, 199.59.149.230,United States,tsa_a,0,0,0,0,17,0,0
-http://tumblr.com, 174.121.194.34,United States,ATS,0,0,0,0,198,0,0
-http://livejournal.com ,209.200.154.225,Russian Federation,nginx,0,0,0,0,165,0,0
-http://dreamwidth.org ,69.174.244.50,United States,cloudflare-nginx,0,0,0,0,145,0,0
-http://stickam.com ,67.201.54.151,United States,nginx/1.2.3,0,0,0,0,8358,0,0
-http://blogtv.com ,84.22.170.149,United States,nginx/1.2.3,0,0,0,0,2015,0,0
-http://justin.tv, 199.9.249.21,United States,Unknown,0,0,0,0,20,0,0
-http://chatroulette.com ,184.173.141.231,United States,cloudflare-nginx,0,0,0,0,0,0,0
-http://omegle.com ,97.107.132.144,United States,cloudflare-nginx,0,0,0,0,0,0,0
-http://own3d.tv ,208.94.146.80,Germany,nginx,0,0,0,0,0,0,0
-http://megavideo.com ,174.140.154.32,Moldova,Unknown,0,0,0,0,0,0,0
-http://gorillavid.com, 178.17.165.74,Moldova,Unknown,0,0,0,0,25,0,0
-http://videoweed.com ,91.220.176.248,Ukraine,nginx/1.10.2,0,0,0,0,28,0,0
-http://novamov.com ,91.220.176.248,Ukraine,nginx/1.10.2,0,0,0,0,98,0,0
-http://tvlinks.com ,208.223.219.206,United States,Unknown,0,0,0,0,95,0,0
-http://1channel.com, 208.87.33.151,United States,nginx,0,0,0,0,65,0,0
-http://amazon.com ,72.21.211.176,United States,Server,0,0,0,0,68,0,0
-http://newegg.com ,216.52.208.187,United States,NEWEGG,0,0,0,0,732,0,0
-http://frys.com ,209.31.22.39,United States,Apache,0,0,0,0,2568,0,0
-http://mediafire.com ,205.196.120.13,United States,MediaFire,0,0,0,0,5874,0,0
-http://megaupload.com ,174.140.154.20,United States,Unknown,0,0,0,0,4215,0,0
-http://fileshare.com ,208.87.33.151,United States,nginx,0,0,0,0,158,0,0
-http://multiupload.com ,95.211.149.7,Australia,Unknown,0,0,0,0,362,0,0
-http://uploading.com ,195.191.207.40,United States,nginx,0,0,0,0,395,0,0
-http://warez-bb.org ,31.7.57.13,Hong Kong,Unknown,0,0,0,0,348,0,0
-http://hotfile.com ,199.7.177.218,United States,nginx/1.11.13,0,0,0,0,548,0,0
-http://gamespy.com ,69.10.25.46,United States,AmazonS3,0,0,0,0,754,0,0
-http://what.cd ,67.21.232.223,unknown,Unknown,0,0,0,0,412,0,0
-http://warez.ag ,178.162.238.136,unknown,Unknown,0,0,0,0,254,0,0
-http://putlocker.com ,89.238.130.247,United States,cloudflare-nginx,0,0,0,0,215,0,0
-http://uploaded.to ,95.211.143.200,Netherlands,nginx,0,0,0,0,154,0,0
-http://dropbox.com ,199.47.217.179,United States,nginx,0,0,0,0,214,0,0
-http://pastebin.com ,69.65.13.216,United States,cloudflare-nginx,0,0,0,0,5487,0,0
-linkedin.com/,108.174.10.10,United States,Play,0,0,0,0,2549,0,0
-wordpress.org/,66.155.40.249,United States,nginx,0,0,0,0,965,0,0
-instagram.com/,54.236.156.191,United States,Unknown,0,0,0,0,824,0,0
-pinterest.com/,151.101.0.84,United States,Unknown,0,0,0,0,216,0,0
-wikipedia.org/,198.35.26.96,Netherlands,mw1188.eqiad.wmnet,0,0,0,0,1012,0,0
-wordpress.com/,192.0.78.9,United States,nginx,0,0,0,0,1204,0,0
-blogspot.com/,172.217.11.73,Hungary,sffe,0,0,0,0,0,0,0
-apple.com/,17.172.224.47,United States,Apache,0,0,0,0,45,0,0
-adobe.com/,192.147.130.204,United States,Apache,0,1,0,0,22,0,0
-tumblr.com/,66.6.33.159,United States,ATS,0,0,0,0,1,0,0
-vimeo.com/,151.101.0.217,United States,nginx,0,0,0,0,3698,0,0
-goo.gl/,172.217.13.238,Poland,GSE,0,0,0,0,568,0,0
-yahoo.com/,206.190.36.45,United States,ATS,0,0,0,0,264,0,0
-microsoft.com/,23.96.52.53,Ireland,Unknown,0,0,0,0,231,0,0
-flickr.com/,69.147.92.11,United States,ATS,0,0,0,0,21,0,0
-qq.com/,125.39.240.113,China,squid/3.5.20,0,0,0,0,257,0,0
-bit.ly/,67.199.248.11,United States,nginx,0,0,0,0,589,0,0
-godaddy.com/,208.109.192.70,United States,Unknown,0,0,0,0,654,0,0
-vk.com/,87.240.165.80,Russian Federation,nginx,0,0,0,0,625,0,0
-whoisprivacyprotect.com/,69.64.157.29,United States,Unknown,0,0,0,0,159,0,0
-buydomains.com/,207.148.248.132,United States,Apache/2.4.6 (CentOS) PHP/5.6.8,0,0,0,0,157,0,0
-reddit.com/,151.101.65.140,United States,snooserv,0,0,0,0,485,0,0
-baidu.com/,220.181.57.217,China,Apache,0,0,0,0,452,0,0
-w3.org/,128.30.52.45,United States,Unknown,0,0,0,0,416,0,0
-nytimes.com/,151.101.193.164,United States,Apache,0,0,0,0,751,0,0
-t.co/,104.244.42.133,United States,tsa_a,0,0,0,0,365,0,0
-europa.eu/,147.67.119.20,Luxembourg,Europa,0,0,0,0,142,0,0
-statcounter.com/,104.20.3.47,United States,cloudflare-nginx,0,0,0,0,985,0,0
-weebly.com/,74.115.50.110,United States,Apache,0,0,0,0,456,0,0
-gov.uk/,23.235.37.144,United States,nginx,0,0,0,0,257,0,0
-bbc.co.uk/,212.58.244.23,Great Britain,Unknown,0,0,0,0,319,0,0
-yandex.ru/,5.255.255.70,Russian Federation,Unknown,0,0,0,0,135,0,0
-myspace.com/,63.135.90.70,United States,Unknown,0,0,0,0,462,0,0
-blogger.com/,172.217.26.169,Hungary,sffe,0,0,0,0,267,0,0
-soundcloud.com/,52.222.179.52,Great Britain,am/2,0,0,0,0,458,0,0
-mozilla.org/,64.85.171.16,United States,cloudflare-nginx,0,0,0,0,961,0,0
-google.de/,172.217.26.195,Poland,gws,0,0,0,0,258,0,0
-github.com/,192.30.253.113,United States,GitHub.com,0,0,0,0,248,0,0
-cnn.com/,151.101.193.67,United States,Unknown,0,0,0,0,785,0,0
-wix.com/,107.154.110.40,United States,Pepyaka/1.11.3,0,0,0,0,3,0,0
-addthis.com/,104.16.60.133,United States,cloudflare-nginx,0,0,0,0,256,0,0
-ascii.co.uk/,178.79.166.247,Great Britain,Apache/2.2.22 (Ubuntu),0,0,0,0,1119,0,0
-wp.com/,192.0.78.24,United States,nginx,0,0,0,0,15846,0,0
-jimdo.com/,151.101.2.2,United States,nginx/1.13.5,0,0,0,0,235,0,0
-google.co.jp/,172.217.26.195,Poland,gws,0,0,0,0,201,0,0
-creativecommons.org/,104.20.151.16,United States,cloudflare-nginx,0,0,0,0,236,0,0
-nih.gov/,54.235.145.223,United States,nginx,0,0,0,0,653,0,0
-issuu.com/,52.72.26.162,United States,nginx,0,0,0,0,658,0,0
-huffingtonpost.com/,149.174.110.102,United States,ECD (oxr/8305),0,0,0,0,9632,0,0
-paypal.com/,64.4.250.33,United States,Apache,0,0,0,0,9652,0,0
-cloudflare.com/,198.41.215.162,United States,cloudflare-nginx,0,0,0,0,3265,0,0
-123-reg.co.uk/,185.53.177.31,Great Britain,nginx,0,0,0,0,1258,0,0
-feedburner.com/,172.217.26.206,Poland,GSE,0,0,0,0,4589,0,0
-bluehost.com/,184.173.42.137,United States,nginx,0,1,0,0,457,0,0
-digg.com/,50.18.169.88,United States,TornadoServer/2.3,0,1,0,0,21,0,0
-stumbleupon.com/,199.30.80.32,United States,Apache,0,0,0,0,25,0,0
-theguardian.com/,151.101.129.111,United States,Unknown,0,0,0,0,64,0,0
-imdb.com/,72.21.206.80,United States,Server,0,0,0,0,653,0,0
-go.com/,23.236.60.174,United States,Unknown,0,0,0,0,2895,0,0
-tinyurl.com/,104.20.219.42,United States,cloudflare-nginx,0,0,0,0,145,0,0
-yelp.com/,151.101.76.116,United States,nginx,0,0,0,0,21,0,0
-forbes.com/,63.240.4.179,United States,Unknown,0,0,0,0,254,0,0
-dropbox.com/,162.125.248.1,United States,nginx,0,0,0,0,4865,0,0
-parallels.com/,162.125.248.1,United States,cloudflare-nginx,0,0,0,0,2658,0,0
-msn.com/,13.82.28.61,United States,Unknown,0,0,0,0,97,0,0
-google.co.uk/,172.217.20.195,Poland,gws,0,0,0,0,2589,0,0
-amazonaws.com/,72.21.210.29,United States,Server,0,0,0,0,985,0,0
-wsj.com/,205.203.132.1,United States,Unknown,0,0,0,0,54,0,0
-gravatar.com/,192.0.80.240,United States,nginx,0,0,0,0,5624,0,0
-washingtonpost.com/,192.33.31.56,United States,nginx,0,0,0,0,0,0,0
-slideshare.net/,108.174.10.19,United States,nginx,0,0,0,0,1254,0,0
-http://dbtindia.nic.in,164.100.58.221,India,Unknown,0,0,0,0,2451,0,0
-www.bis.org.in,164.100.52.186,India,Unknown,0,0,0,0,14,0,0
-http://chemicals.nic.in,164.100.160.244,India,Unknown,0,0,0,0,196,0,0
-http://civilaviation.nic.in,164.100.52.144,India,Unknown,0,0,0,0,648,0,0
-http://commerce.nic.in,164.100.52.144,India,Unknown,0,0,0,0,632,0,0
-http://coal.nic.in,164.100.83.40,India,Unknown,0,0,0,0,1236,0,0
-IRCTC.co.in,103.252.142.18,India,Unknown,0,0,0,0,1254,0,0
-BSNL.in,218.248.240.47,India,Apache,0,0,0,0,75,0,0
-Naukri.com,54.251.99.37,India,nginx,0,0,0,0,12,0,0
-Cricinfo.com,52.19.167.6,India,Unknown,0,0,0,0,25,0,0
-BharatStudent.com,31.3.223.102,Great Britain,Apache/2.2.15 (CentOS),0,0,0,0,26,0,0
-NDTV.com,52.2.229.194,United States,nginx,0,0,0,0,8754,0,0
-MapsofIndia.com,173.224.126.133,United States,Apache/2.4.10 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.33,0,0,0,0,5469,0,0
-HDFCbank.com,104.16.81.72,United States,cloudflare-nginx,0,0,0,0,6528,0,0
-IndiaMart.com,192.170.156.116,United States,nginx/1.10.2,0,0,0,0,52485,0,0
-BookMyShow.com,104.16.124.37,United States,unknown,0,0,0,0,365,0,0
-Magicbricks.com,23.214.118.136,Great Britain,Apache,0,0,0,0,256,0,0
-Sulekha.com,52.170.100.84,United States,Microsoft-IIS/10.0,0,0,0,0,248,0,0
-ibibo.com,180.179.79.178,India,Apache,0,0,0,0,564,0,0
-Shaadi.com,95.100.156.144,United States,Apache,0,0,0,0,215,0,0
-Clickindia.com,103.11.152.72,India,Unknown,0,0,0,0,258,0,0
-ICICIdirect.com,203.27.235.20,India,Unknown,0,0,0,0,20,0,0
-Makemytrip.com,180.179.112.50,India,Apache,0,0,0,0,3125,0,0
-Redbus.in,175.41.130.244,Singapore,nginx,0,0,0,0,256,0,0
-aol.com/,149.174.110.105,United States,Apache,0,0,0,0,245,0,0
-macromedia.com/,192.150.16.118,United States,unknown,0,0,0,0,287,0,0
-sina.com.cn/,202.108.33.107,China,PWS/8.3.0.8,0,0,0,0,854,0,0
-usatoday.com/,159.54.242.176,United States,nginx/1.10.1,0,0,0,0,8254,0,0
-wikimedia.org/,91.198.174.192,Netherlands,mw1270.eqiad.wmnet,0,0,0,0,2546,0,0
-amazon.de/,54.239.32.138,United States,Server,0,0,0,0,9654,0,0
-time.com/,52.85.183.163,Germany(DE),nginx,0,0,0,0,24,0,0
-eepurl.com/,23.34.201.202,United States,Apache,0,0,0,0,255,0,0
-constantcontact.com/,208.75.122.14,United States,Apache,0,0,0,0,542,0,0
-cdc.gov/,198.246.102.49,United States,Microsoft-IIS/7.5,0,0,0,0,2154,0,0
-webs.com/,104.16.88.120,United States,unknown,0,0,0,0,25878,0,0
-harvard.edu/,52.87.67.209,United States,cloudflare-nginx,0,0,0,0,2635,0,0
-namejet.com/,98.124.250.30,United States,Unknown,0,0,0,0,21,0,0
-live.com/,65.55.118.92,United States,Microsoft-IIS/8.5,0,0,0,0,0,0,0
-xing.com/,109.233.157.254,Germany(DE),unknown,0,0,0,0,2584,0,0
+http://tumblr.com ,174.121.194.34,United States,Unknown,0,0,0,0,28,0,no,0
+http://wikipedia.org, 91.198.174.192,United States,mw1188.eqiad.wmnet,0,0,0,0,35,0,no,0
+http://bbc.co.uk ,212.58.241.131,Great Britain,Unknown,0,0,0,0,101,0,no,0
+http://aljazeera.com ,198.78.201.252,United States,Microsoft-IIS/10.0,0,0,0,0,303,0,no,0
+http://reddit.com ,72.247.244.88,United States,snooserv,0,0,0,0,205,0,no,0
+http://imgur.com ,173.231.140.219,United States,cat factory 1.0,0,0,0,0,1311,0,no,0
+http://google.com ,172.217.11.174,Poland,gws,0,0,0,0,2200,0,no,0
+http://youtube.com ,74.125.65.91,Poland,YouTube Frontend Proxy,0,0,0,0,68,0,no,0
+http://yahoo.com ,98.137.149.56,United States,ATS,0,0,0,0,79,0,no,0
+http://hotmail.com ,65.55.72.135,Ireland,Microsoft-IIS/8.5,0,0,0,0,506,0,no,0
+http://bing.com ,65.55.175.254,United States,Unknown,0,0,0,0,304,0,no,0
+http://digg.com ,64.191.203.30,United States,TornadoServer/2.3,0,0,0,0,201,0,no,0
+http://theonion.com ,97.107.137.164,United States,PWS/8.3.0.8,0,0,0,0,312,0,no,0
+http://hush.com ,65.39.178.43,Canada,nginx/1.10.2,0,0,0,0,1458,0,no,0
+http://gamespot.com ,216.239.113.172,United States,nginx/1.8.0,0,0,0,0,0,0,no,0
+http://ign.com ,69.10.25.46,United States,instart/nginx,0,0,0,0,28,0,no,0
+http://cracked.com, 98.124.248.77,United States,Apache,0,0,0,0,10,0,no,0
+http://sidereel.com , 144.198.29.112,United States,Apache/2.4.7 (Ubuntu),0,0,0,0,9,0,no,0
+http://github.com ,207.97.227.239,United States,GitHub.com,0,1,0,0,1546,0,no,0
+http://thepiratebay.org ,194.71.107.15,United States,cloudflare-nginx,0,0,0,0,132,0,no,0
+http://mininova.com ,80.94.76.5,Netherlands,nginx/1.10.1 (Ubuntu),0,0,0,0,879,0,no,0
+http://btjunkie.com ,93.158.65.211,unknown,nginx,0,0,0,0,259,0,no,0
+http://demonoid.com, 62.149.24.66,France,nginx,0,0,0,0,1300,0,no,0
+http://demonoid.me ,62.149.24.67,France,nginx,0,0,0,0,15,0,no,0
+http://facebook.com ,31.13.77.36,Ireland,Unknown,0,0,0,0,1245,0,no,0
+http://twitter.com, 199.59.149.230,United States,tsa_a,0,0,0,0,17,0,no,0
+http://tumblr.com, 174.121.194.34,United States,ATS,0,0,0,0,198,0,no,0
+http://livejournal.com ,209.200.154.225,Russian Federation,nginx,0,0,0,0,165,0,no,0
+http://dreamwidth.org ,69.174.244.50,United States,cloudflare-nginx,0,0,0,0,145,0,no,0
+http://stickam.com ,67.201.54.151,United States,nginx/1.2.3,0,0,0,0,8358,0,no,0
+http://blogtv.com ,84.22.170.149,United States,nginx/1.2.3,0,0,0,0,2015,0,no,0
+http://justin.tv, 199.9.249.21,United States,Unknown,0,0,0,0,20,0,no,0
+http://chatroulette.com ,184.173.141.231,United States,cloudflare-nginx,0,0,0,0,0,0,no,0
+http://omegle.com ,97.107.132.144,United States,cloudflare-nginx,0,0,0,0,0,0,no,0
+http://own3d.tv ,208.94.146.80,Germany,nginx,0,0,0,0,0,0,no,0
+http://megavideo.com ,174.140.154.32,Moldova,Unknown,0,0,0,0,0,0,no,0
+http://gorillavid.com, 178.17.165.74,Moldova,Unknown,0,0,0,0,25,0,no,0
+http://videoweed.com ,91.220.176.248,Ukraine,nginx/1.10.2,0,0,0,0,28,0,no,0
+http://novamov.com ,91.220.176.248,Ukraine,nginx/1.10.2,0,0,0,0,98,0,no,0
+http://tvlinks.com ,208.223.219.206,United States,Unknown,0,0,0,0,95,0,no,0
+http://1channel.com, 208.87.33.151,United States,nginx,0,0,0,0,65,0,no,0
+http://amazon.com ,72.21.211.176,United States,Server,0,0,0,0,68,0,no,0
+http://newegg.com ,216.52.208.187,United States,NEWEGG,0,0,0,0,732,0,no,0
+http://frys.com ,209.31.22.39,United States,Apache,0,0,0,0,2568,0,no,0
+http://mediafire.com ,205.196.120.13,United States,MediaFire,0,0,0,0,5874,0,no,0
+http://megaupload.com ,174.140.154.20,United States,Unknown,0,0,0,0,4215,0,no,0
+http://fileshare.com ,208.87.33.151,United States,nginx,0,0,0,0,158,0,no,0
+http://multiupload.com ,95.211.149.7,Australia,Unknown,0,0,0,0,362,0,no,0
+http://uploading.com ,195.191.207.40,United States,nginx,0,0,0,0,395,0,no,0
+http://warez-bb.org ,31.7.57.13,Hong Kong,Unknown,0,0,0,0,348,0,no,0
+http://hotfile.com ,199.7.177.218,United States,nginx/1.11.13,0,0,0,0,548,0,no,0
+http://gamespy.com ,69.10.25.46,United States,AmazonS3,0,0,0,0,754,0,no,0
+http://what.cd ,67.21.232.223,unknown,Unknown,0,0,0,0,412,0,no,0
+http://warez.ag ,178.162.238.136,unknown,Unknown,0,0,0,0,254,0,no,0
+http://putlocker.com ,89.238.130.247,United States,cloudflare-nginx,0,0,0,0,215,0,no,0
+http://uploaded.to ,95.211.143.200,Netherlands,nginx,0,0,0,0,154,0,no,0
+http://dropbox.com ,199.47.217.179,United States,nginx,0,0,0,0,214,0,no,0
+http://pastebin.com ,69.65.13.216,United States,cloudflare-nginx,0,0,0,0,5487,0,no,0
+linkedin.com/,108.174.10.10,United States,Play,0,0,0,0,2549,0,no,0
+wordpress.org/,66.155.40.249,United States,nginx,0,0,0,0,965,0,no,0
+instagram.com/,54.236.156.191,United States,Unknown,0,0,0,0,824,0,no,0
+pinterest.com/,151.101.0.84,United States,Unknown,0,0,0,0,216,0,no,0
+wikipedia.org/,198.35.26.96,Netherlands,mw1188.eqiad.wmnet,0,0,0,0,1012,0,no,0
+wordpress.com/,192.0.78.9,United States,nginx,0,0,0,0,1204,0,no,0
+blogspot.com/,172.217.11.73,Hungary,sffe,0,0,0,0,0,0,no,0
+apple.com/,17.172.224.47,United States,Apache,0,0,0,0,45,0,no,0
+adobe.com/,192.147.130.204,United States,Apache,0,1,0,0,22,0,no,0
+tumblr.com/,66.6.33.159,United States,ATS,0,0,0,0,1,0,no,0
+vimeo.com/,151.101.0.217,United States,nginx,0,0,0,0,3698,0,no,0
+goo.gl/,172.217.13.238,Poland,GSE,0,0,0,0,568,0,no,0
+yahoo.com/,206.190.36.45,United States,ATS,0,0,0,0,264,0,no,0
+microsoft.com/,23.96.52.53,Ireland,Unknown,0,0,0,0,231,0,no,0
+flickr.com/,69.147.92.11,United States,ATS,0,0,0,0,21,0,no,0
+qq.com/,125.39.240.113,China,squid/3.5.20,0,0,0,0,257,0,no,0
+bit.ly/,67.199.248.11,United States,nginx,0,0,0,0,589,0,no,0
+godaddy.com/,208.109.192.70,United States,Unknown,0,0,0,0,654,0,no,0
+vk.com/,87.240.165.80,Russian Federation,nginx,0,0,0,0,625,0,no,0
+whoisprivacyprotect.com/,69.64.157.29,United States,Unknown,0,0,0,0,159,0,no,0
+buydomains.com/,207.148.248.132,United States,Apache/2.4.6 (CentOS) PHP/5.6.8,0,0,0,0,157,0,no,0
+reddit.com/,151.101.65.140,United States,snooserv,0,0,0,0,485,0,no,0
+baidu.com/,220.181.57.217,China,Apache,0,0,0,0,452,0,no,0
+w3.org/,128.30.52.45,United States,Unknown,0,0,0,0,416,0,no,0
+nytimes.com/,151.101.193.164,United States,Apache,0,0,0,0,751,0,no,0
+t.co/,104.244.42.133,United States,tsa_a,0,0,0,0,365,0,no,0
+europa.eu/,147.67.119.20,Luxembourg,Europa,0,0,0,0,142,0,no,0
+statcounter.com/,104.20.3.47,United States,cloudflare-nginx,0,0,0,0,985,0,no,0
+weebly.com/,74.115.50.110,United States,Apache,0,0,0,0,456,0,no,0
+gov.uk/,23.235.37.144,United States,nginx,0,0,0,0,257,0,no,0
+bbc.co.uk/,212.58.244.23,Great Britain,Unknown,0,0,0,0,319,0,no,0
+yandex.ru/,5.255.255.70,Russian Federation,Unknown,0,0,0,0,135,0,no,0
+myspace.com/,63.135.90.70,United States,Unknown,0,0,0,0,462,0,no,0
+blogger.com/,172.217.26.169,Hungary,sffe,0,0,0,0,267,0,no,0
+soundcloud.com/,52.222.179.52,Great Britain,am/2,0,0,0,0,458,0,no,0
+mozilla.org/,64.85.171.16,United States,cloudflare-nginx,0,0,0,0,961,0,no,0
+google.de/,172.217.26.195,Poland,gws,0,0,0,0,258,0,no,0
+github.com/,192.30.253.113,United States,GitHub.com,0,0,0,0,248,0,no,0
+cnn.com/,151.101.193.67,United States,Unknown,0,0,0,0,785,0,no,0
+wix.com/,107.154.110.40,United States,Pepyaka/1.11.3,0,0,0,0,3,0,no,0
+addthis.com/,104.16.60.133,United States,cloudflare-nginx,0,0,0,0,256,0,no,0
+ascii.co.uk/,178.79.166.247,Great Britain,Apache/2.2.22 (Ubuntu),0,0,0,0,1119,0,no,0
+wp.com/,192.0.78.24,United States,nginx,0,0,0,0,15846,0,no,0
+jimdo.com/,151.101.2.2,United States,nginx/1.13.5,0,0,0,0,235,0,no,0
+google.co.jp/,172.217.26.195,Poland,gws,0,0,0,0,201,0,no,0
+creativecommons.org/,104.20.151.16,United States,cloudflare-nginx,0,0,0,0,236,0,no,0
+nih.gov/,54.235.145.223,United States,nginx,0,0,0,0,653,0,no,0
+issuu.com/,52.72.26.162,United States,nginx,0,0,0,0,658,0,no,0
+huffingtonpost.com/,149.174.110.102,United States,ECD (oxr/8305),0,0,0,0,9632,0,no,0
+paypal.com/,64.4.250.33,United States,Apache,0,0,0,0,9652,0,no,0
+cloudflare.com/,198.41.215.162,United States,cloudflare-nginx,0,0,0,0,3265,0,no,0
+123-reg.co.uk/,185.53.177.31,Great Britain,nginx,0,0,0,0,1258,0,no,0
+feedburner.com/,172.217.26.206,Poland,GSE,0,0,0,0,4589,0,no,0
+bluehost.com/,184.173.42.137,United States,nginx,0,1,0,0,457,0,no,0
+digg.com/,50.18.169.88,United States,TornadoServer/2.3,0,1,0,0,21,0,no,0
+stumbleupon.com/,199.30.80.32,United States,Apache,0,0,0,0,25,0,no,0
+theguardian.com/,151.101.129.111,United States,Unknown,0,0,0,0,64,0,no,0
+imdb.com/,72.21.206.80,United States,Server,0,0,0,0,653,0,no,0
+go.com/,23.236.60.174,United States,Unknown,0,0,0,0,2895,0,no,0
+tinyurl.com/,104.20.219.42,United States,cloudflare-nginx,0,0,0,0,145,0,no,0
+yelp.com/,151.101.76.116,United States,nginx,0,0,0,0,21,0,no,0
+forbes.com/,63.240.4.179,United States,Unknown,0,0,0,0,254,0,no,0
+dropbox.com/,162.125.248.1,United States,nginx,0,0,0,0,4865,0,no,0
+parallels.com/,162.125.248.1,United States,cloudflare-nginx,0,0,0,0,2658,0,no,0
+msn.com/,13.82.28.61,United States,Unknown,0,0,0,0,97,0,no,0
+google.co.uk/,172.217.20.195,Poland,gws,0,0,0,0,2589,0,no,0
+amazonaws.com/,72.21.210.29,United States,Server,0,0,0,0,985,0,no,0
+wsj.com/,205.203.132.1,United States,Unknown,0,0,0,0,54,0,no,0
+gravatar.com/,192.0.80.240,United States,nginx,0,0,0,0,5624,0,no,0
+washingtonpost.com/,192.33.31.56,United States,nginx,0,0,0,0,0,0,no,0
+slideshare.net/,108.174.10.19,United States,nginx,0,0,0,0,1254,0,no,0
+http://dbtindia.nic.in,164.100.58.221,India,Unknown,0,0,0,0,2451,0,no,0
+www.bis.org.in,164.100.52.186,India,Unknown,0,0,0,0,14,0,no,0
+http://chemicals.nic.in,164.100.160.244,India,Unknown,0,0,0,0,196,0,no,0
+http://civilaviation.nic.in,164.100.52.144,India,Unknown,0,0,0,0,648,0,no,0
+http://commerce.nic.in,164.100.52.144,India,Unknown,0,0,0,0,632,0,no,0
+http://coal.nic.in,164.100.83.40,India,Unknown,0,0,0,0,1236,0,no,0
+IRCTC.co.in,103.252.142.18,India,Unknown,0,0,0,0,1254,0,no,0
+BSNL.in,218.248.240.47,India,Apache,0,0,0,0,75,0,no,0
+Naukri.com,54.251.99.37,India,nginx,0,0,0,0,12,0,no,0
+Cricinfo.com,52.19.167.6,India,Unknown,0,0,0,0,25,0,no,0
+BharatStudent.com,31.3.223.102,Great Britain,Apache/2.2.15 (CentOS),0,0,0,0,26,0,no,0
+NDTV.com,52.2.229.194,United States,nginx,0,0,0,0,8754,0,no,0
+MapsofIndia.com,173.224.126.133,United States,Apache/2.4.10 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.33,0,0,0,0,5469,0,no,0
+HDFCbank.com,104.16.81.72,United States,cloudflare-nginx,0,0,0,0,6528,0,no,0
+IndiaMart.com,192.170.156.116,United States,nginx/1.10.2,0,0,0,0,52485,0,no,0
+BookMyShow.com,104.16.124.37,United States,unknown,0,0,0,0,365,0,no,0
+Magicbricks.com,23.214.118.136,Great Britain,Apache,0,0,0,0,256,0,no,0
+Sulekha.com,52.170.100.84,United States,Microsoft-IIS/10.0,0,0,0,0,248,0,no,0
+ibibo.com,180.179.79.178,India,Apache,0,0,0,0,564,0,no,0
+Shaadi.com,95.100.156.144,United States,Apache,0,0,0,0,215,0,no,0
+Clickindia.com,103.11.152.72,India,Unknown,0,0,0,0,258,0,no,0
+ICICIdirect.com,203.27.235.20,India,Unknown,0,0,0,0,20,0,no,0
+Makemytrip.com,180.179.112.50,India,Apache,0,0,0,0,3125,0,no,0
+Redbus.in,175.41.130.244,Singapore,nginx,0,0,0,0,256,0,no,0
+aol.com/,149.174.110.105,United States,Apache,0,0,0,0,245,0,no,0
+macromedia.com/,192.150.16.118,United States,unknown,0,0,0,0,287,0,no,0
+sina.com.cn/,202.108.33.107,China,PWS/8.3.0.8,0,0,0,0,854,0,no,0
+usatoday.com/,159.54.242.176,United States,nginx/1.10.1,0,0,0,0,8254,0,no,0
+wikimedia.org/,91.198.174.192,Netherlands,mw1270.eqiad.wmnet,0,0,0,0,2546,0,no,0
+amazon.de/,54.239.32.138,United States,Server,0,0,0,0,9654,0,no,0
+time.com/,52.85.183.163,Germany(DE),nginx,0,0,0,0,24,0,no,0
+eepurl.com/,23.34.201.202,United States,Apache,0,0,0,0,255,0,no,0
+constantcontact.com/,208.75.122.14,United States,Apache,0,0,0,0,542,0,no,0
+cdc.gov/,198.246.102.49,United States,Microsoft-IIS/7.5,0,0,0,0,2154,0,no,0
+webs.com/,104.16.88.120,United States,unknown,0,0,0,0,25878,0,no,0
+harvard.edu/,52.87.67.209,United States,cloudflare-nginx,0,0,0,0,2635,0,no,0
+namejet.com/,98.124.250.30,United States,Unknown,0,0,0,0,21,0,no,0
+live.com/,65.55.118.92,United States,Microsoft-IIS/8.5,0,0,0,0,0,0,no,0
+xing.com/,109.233.157.254,Germany(DE),unknown,0,0,0,0,2584,0,no,0
 amzn.to/,67.199.248.12,United States
-,Server,0,0,0,0,3254,0,0
-latimes.com/,192.187.93.86,United States,Apache-Coyote/1.1,0,0,0,0,1258,0,0
-npr.org/,216.35.221.76,United States,Apache,0,0,0,0,987,0,0
-opera.com/,82.145.215.49,Great Britain,Unknown,0,0,0,0,584,0,0
-dailymotion.com/,195.8.215.136,France(FR),DMS/1.0.42,0,0,0,0,654,0,0
-blogspot.co.uk/,172.217.18.73,Hungary(HU),gws,0,0,0,0,456,0,0
-cpanel.net/,208.74.121.51,United States,Apache,0,0,0,0,258,0,0
-google.it/,172.217.20.195,Poland(PL),gws,0,0,0,0,325,0,0
-bbb.org/,216.52.119.101,United States,unknown,0,0,0,0,4215,0,0
-icio.us/,107.181.87.5,United States,nginx/1.6.2 (Ubuntu),0,0,0,0,1254,0,0
-tripadvisor.com/,192.229.162.112,United States,Apache,0,0,0,0,168,0,0
-hatena.ne.jp/,59.106.194.19,Japan(JP),nginx,0,0,0,0,1785,0,0
-list-manage.com/,205.201.132.96,United States,openresty,0,0,0,0,145,0,0
-guardian.co.uk/,151.101.0.233,United States,Unknown,0,0,0,0,136,0,0
-mit.edu/,104.86.40.160,Poland(PL),Apache/1.3.41 (Unix) mod_ssl/2.8.31 OpenSSL/0.9.8j,0,0,0,0,13682,0,0
-surveymonkey.com/,75.98.93.51,United States,nginx,0,0,0,0,2358,0,0
-rambler.ru/,81.19.82.9,Great Britain,nginx,0,0,0,0,5487,0,0
-elegantthemes.com/,192.124.249.10,United States,nginx,0,0,0,0,2542,0,0
-bandcamp.com/,151.101.129.28,United States,nginx,0,0,0,0,0,0,0
-cpanel.com/,208.74.123.68,United States,Apache,0,0,0,0,124,0,0
-amazon.co.jp/,54.240.248.0,United States,Server,0,0,0,0,43,0,0
-doubleclick.net/,172.217.20.174,Poland(PL),Google Frontend,0,0,0,0,30,0,0
-gnu.org/,208.118.235.148,United States,Apache/2.4.7,0,0,0,0,268,0,0
-apache.org/,140.211.11.105,United States,Apache/2.4.7 (Ubuntu),0,0,0,0,99,0,0
-google.fr/,172.217.20.195,Poland(PL),gws,0,0,0,0,256,0,0
-stanford.edu/,171.67.215.200,United States,nginx/1.13.3,0,0,0,0,248,0,0
-domainactive.co/,98.124.245.47,United States,Apache,0,0,0,0,5487,0,0
-businessinsider.com/,151.101.0.64,United States,Apache/2.2.22 (Ubuntu),0,0,0,0,2356,0,0
-joomla.org/,72.29.124.146,United States,LiteSpeed,0,0,0,0,85241,0,0
-wired.com/,151.101.1.63,United States,Unknown,0,0,0,0,231,0,0
-kickstarter.com/,52.85.183.180,Germany(DE),nginx,0,0,0,0,1,0,0
-bbc.com/,212.58.244.22,Great Britain,Apache,0,0,0,0,358,0,0
-geocities.com/,98.139.206.27,United States,ATS,0,0,0,0,3256,0,0
-nasa.gov/,52.0.14.116,United States,AmazonS3,0,0,0,0,2547,0,0
-google.es/,172.217.20.195,Poland(PL),gws,0,0,0,0,3054,0,0
-behance.net/,151.101.1.197,United States,nginx,0,0,0,0,289,0,0
-independent.co.uk/,151.101.129.184,United States,nginx,0,0,0,0,987,0,0
-medium.com/,104.16.124.127,United States,cloudflare-nginx,0,0,0,0,758,0,0
-http://mtarchitecte.com:80,64.18.191.20,Canada,Apache,3,0,0,98,413,0,1
-http://womoz.org:80,188.165.242.92,France,Apache/2.4.10,1,0,0,99,773,2,1
-http://according-to-kelly.com:80,192.254.234.132,United States,nginx/1.12.1,2,3,0,95,3661,7,1
-http://recsjpn.com:80,160.16.95.166,Japan,unknown,1,0,0,24,129,4,1
-http://stracap.jp:80,210.224.185.62,Japan,Unknown,8,0,0,74,492,2,1
-http://xxxgroupsex.com:80,67.23.113.146,United States,Apache/2.2.15,41,0,0,60,16162,3,1
-http://nusanaga.blogspot.sg:80,216.58.198.225,United States,GSE,9,0,0,4,5,1,1
-http://np.gorkhapost.com:80,209.140.31.229,United States,Apache,6,0,0,82,192,1,1
-http://www.newsflash.pk:80,192.254.237.104,United States,nginx/1.12.1,5,0,0,9,6373,1,1
-http://www.atube.me:80,149.56.18.3,United States,Apache/2.4.6,14,0,4,18,133,0,1
-http://giftthebest.com:80,162.144.142.208,United States,Apache,27,0,1,16,1034,1,1
-http://wr-cheats.com:80,104.27.149.173, United States,cloudflare-nginx,9,0,2,84,480,0,1
-http://informacionjuridica.com:80, 193.70.113.22,Italy,Apache/2.4.10,1,0,0,3,0,0,1
-http://www.otokursurucukursu.com:80,157.7.107.159,Japan,Apache,1,0,1,38,53,0,1
-http://phimsexmoinhat2013.blogspot.com:80,216.58.198.225,United States,GSE,26,0,0,4,406,1,1
-http://www.madtubes.com:80,88.208.19.56,Netherlands,nginx/1.10.2,1,0,0,5,1024,0,1
-http://english.com.tw:80,198.1.78.232,United States,nginx,3,0,0,98,1174,2,1
-http://silive.com:80,216.146.46.10,United States,nginx/1.6.2,2,0,1,89,1569,1,1
-http://portaltloficial.blogspot.com.br:80,216.58.198.225,United States,GSE,4,0,0,4,5,1,1
-http://www.onepluscapital.net:80,195.14.149.5,Cyprus,Microsoft-IIS/7.5,11,0,0,83,203,2,1
-http://hotelandresortreservations.com:80,65.75.149.196,United States,nginx,4,0,0,96,264,0,1
-http://www.thruthelensmagic.com:80,67.20.85.51,United States,nginx/1.12.1,70,0,0,31,263,0,1
-http://rochak.com.np:80,104.219.248.7,United States,Apache,12,0,0,31,37,1,1
-http://preferredwindowanddoor.com:80,67.227.188.213,United States,Apache/2.4.27,1,0,0,100,838,9,1
-http://melvinflex.com:80,104.27.160.189,United States,cloudflare-nginx,59,0,0,3,300,2,1
-http://unfabrikasi.com:80,99.198.101.234,United States,Apache,1,0,0,29,37,0,1
-http://www.belcitymall.ru:80,91.228.230.3,Russian Federation,Apache/2.4.10,2,0,0,88,713,0,1
-http://navicat-mysql-manager-lite.soft32.com:80,52.85.74.246,United States,nginx,10,0,1,10,125,1,1
-http://rango-hack.ru:80,104.18.58.133,United States,cloudflare-nginx,1,0,0,99,3704,2,1
-http://www.yancpsmart31.blogspot.com:80,216.58.198.225,United States,GSE,8,0,1,4,306,2,1
-http://www.ooo-blagodat.ru:80,90.156.201.55,Russian Federation,Apache,1,0,1,99,529,0,1
-http://videology.com:80,216.177.143.4,United States,Apache,11,0,0,25,24,0,1
-http://www.teleyol.com:80,104.24.112.47,United States,cloudflare-nginx,37,0,0,53,51,1,1
-http://freewarebox.com:80,63.141.248.18,United States,Apache/2.2.15,5,0,0,95,5625,1,1
-www.vokrugsveta.ru:80,195.226.222.59,Russian Federation,nginx,83,0,1,12,186,1,1
-http://www.protv.ro:80,185.133.64.67,Russian Federation,nginx,1,0,0,82,2441,5,1
-http://2captcha.com:80,89.108.117.181,Russian Federation, nginx/1.10.1,1,0,1,99,373,6,1
-http://powerpoint-to-screensaver-converter.soft32.com:80,52.85.74.209,United States,nginx,13,0,1,10,130,1,1
-http://sexyi.am:80,31.170.163.180,United States,Cowboy,1,1,0,1,40,0,1
-http://freddym.fr:80,217.160.233.174,Germany,GSE,32,0,0,6,1614,15,1
-http://www.lemondeinformatique.fr:80,91.121.46.164,France,Apache,7,0,0,93,1395,1,1
-http://mega-porno.me:80,95.211.199.134,Netherlands,nginx/1.0.15,96,0,0,4,0,0,1
-http://rkisam.edu.bd:80,192.232.236.241,United States,Apache,57,0,0,37,659,0,1
-http://notiziariocalcio.com:80,31.14.143.14,Romania,Apache,87,0,0,10,2375,4,1
-http://botskool.com:80,104.28.18.122,United States,cloudflare-nginx,12,0,0,58,1595,32,1
-http://apune.org:80,46.105.103.140,France,Apache/2.2.14,1,0,5,92,679,0,1
-http://aprendizajedivertido.com.mx:80,162.210.98.48,United States,Apache,1,0,1,99,299,0,1
-http://aprendiendocivicayetica.jimdo.com:80,52.51.157.99,United States,nginx,1,0,0,47,922,64,1
-http://mtarchitecte.com:80,64.18.191.20,Canada,Apache,3,0,0,98,413,0,1
-http://womoz.org:80,188.165.242.92,France,Apache/2.4.10,1,0,0,99,773,2,1
-http://according-to-kelly.com:80,192.254.234.132,United States,nginx/1.12.1,2,3,0,95,3661,7,1
-http://wenku.baidu.com:80,103.235.47.122,Hong Kong,Undefined,26,0,1,68,7556,0,1
-http://usafastproxy.info:80,192.249.57.112,United States,nginx/1.8.1,6,0,3,5,77,0,1
-http://ej-ymca.org:80,192.254.232.252,United States,nginx/1.12.1,1,0,2,97,807,4,1
-http://www.myzte.ru:80,91.239.142.90,Russian Federation,nginx/1.10.2,1,0,2,97,1676,7,1
-http://pianofx-studio.soft32.com:80,54.192.2.46,United States,nginx,10,0,1,8,118,1,1
-http://up.arabseyes.com:80,85.25.41.107,Germany,Apache,1,0,0,39,45,0,1
-http://star.tga.plu.cn:80,203.130.58.30,China,nginx,3,1,0,24,850,0,1
-http://pageyourself.com:80,94.23.201.38,France,nginx,2,0,0,84,415,0,1
-http://www.mcmacademy.in:80,148.66.136.210,United States,Apache,2,0,4,94,617,4,1
-http://chimneybazar.com:80,103.21.59.146,India,Apache,22,0,0,15,42,1,1
-http://cnlpaltogo.tg:80,64.235.54.84,United States,Apache,2,0,0,38,42,0,1
-http://proshow-gold.soft32.com:80,54.192.2.179,United States,nginx,32,0,1,9,246,1,1
-http://giveawayarena.com:80,103.211.216.29,India,Apache,3,0,58,16,731,17,1
-http://asiajizz.blogspot.com:80,216.58.204.65,United States,GSE,41,0,0,38,207,4,1
-http://ceteco.vn:80,118.69.204.208,Viet Nam,Unknown,50,0,0,45,175,0,1
-http://www.filehorse.com:80,162.210.198.9,United States,Apache,1,0,0,99,3162,24,1
-http://www.zip.org:80,121.254.160.231,Korea, Republic of,Microsoft-IIS/6.0,2,0,0,2,196,0,1
-http://domiki43.ru:80,81.177.140.11,Russian Federation,Jino.ru/mod_pizza,1,0,8,81,97,13,1
-http://avantlink.com:80,52.21.59.80,United States,nginx/1.10.0,1,0,1,96,1006,1,1
-http://www.lauzau.com:80,204.210.167.66,United States,Microsoft-IIS/10.0,39,0,0,59,116,16,1
-http://joywaychinese.com:80,173.83.102.2,United States,Apache,1,0,0,0,4,0,1
-http://www.appuifle.net:80,82.98.151.210,Spain,HTTPd,1,0,0,99,874,4,1
-http://dominatuorgasmo.com:80,184.154.46.216,United States,LiteSpeed,2,0,0,28,21,0,1
-http://oceanofgames.wordpress.com:80,192.0.78.12,United States,nginx,4,0,2,93,488,4,1
-http://es.osdn.net:80,202.221.179.17,Japan,Apache/2.4.25,3,0,0,112,6222,0,1
-http://www.restoran.us:80,199.204.248.106,United States,Apache,4,0,0,94,1335,3,1
-http://egy4tec.com:80,176.9.114.138,Germany,Apache,1,0,8,53,2214,0,1
-http://statmyweb.com:80,169.53.20.68,United States,cloudflare-nginx,1,0,0,97,9632,1,1
-http://hygoandroid.com:80,216.239.32.21,United States,GSE,15,34,0,27,4,1,1
-http://athletics.sfu.ca:80,206.225.94.89,United States,Microsoft-IIS/8.5,1,0,14,85,1994,9,1
-http://solobicycle.com:80,47.88.15.12,United States,nginx,89,0,0,11,47,3,1
-http://comparitech.com:80,148.251.186.217,Germany,nginx,1,0,0,100,1973,110,1
-http://iiftindia.net:80,198.136.54.80,United States,Apache,2,0,0,0,0,0,1
-http://www.economysollar.com.br:80,216.58.204.83,United States,GSE,42,0,0,19,5,1,1
-http://wowteenporn.com:80,213.174.151.25,Netherlands,Apache/2.2.25,1,5,0,42,12174,8,1
-http://valencianews.ru:80,141.8.192.70,Russian Federation,nginx,4,1,1,91,239,1,1
-http://m.liberation.fr:80,91.194.205.17,Netherlands,PWS/8.3.0.8,56,0,0,5,1,0,1
-http://odkazzdarma.info:80,37.77.255.110,Czech Republic,Apache/2.2.22,1,0,0,98,2324,0,1
-http://www.anjodaguarda.com.br:80,189.1.170.35,Brazil,Apache,74,0,1,22,488,1,1
-http://www.appspeed.nl:80,83.137.194.46,Netherlands,Apache,1,0,0,60,69,0,1
-http://serenitynow.ws:80,97.74.215.144,United States,Apache,1,0,0,4,0,0,1
-http://wiimmfi.de:80,46.4.79.141,Germany,Apache/2.4.6,13,0,0,88,758,0,1
-http://esglobal.co.il:80,182.50.146.128,Singapore,Apache,52,0,0,42,6,1,1
-http://thetechgeek.com:80,198.57.151.207,United States,nginx/1.12.1,23,0,0,77,759,5,1
-http://www.sisfec.upm.edu.my:80,119.40.117.152,Malaysia,Apache/2.2.15,12,0,0,88,47,0,1
-http://www.stcountryaviation.com:80,74.220.207.151,United States,nginx/1.12.1,24,0,0,15,71,0,1
-http://blue2310.tistory.com:80,175.126.170.70,Korea, Republic of,Apache,94,0,0,7,1788,1,1
-http://newpissing.com:80,95.211.216.86,Netherlands,nginx/1.1.19,4,0,2,82,11396,21,1
-http://searchnewscentral.com:80,184.154.242.23,United States,nginx,2,0,0,96,820,5,1
-http://mosaicco.com.au:80,116.0.21.223,Australia,LiteSpeed,55,0,0,9,1353,1,1
-http://gemorroy.org:80,69.197.159.54,United States,Apache,14,0,0,87,398,0,1
-http://rooreynolds.com:80,92.48.98.6,United Kingdom,Unknown,85,0,1,15,3044,1,1
-http://naacpldf.org:80,50.28.37.86,United States,nginx,1,0,2,98,2106,12,1
-http://lavieblog.pixnet.net:80,103.23.108.220,Taiwan, Province of China,Unknown,33,0,18,44,1826,7,1
-http://gamingalmanac.justclick.ru:80,178.248.232.100,Russian Federation,QRATOR,1,0,0,17,13,1,1
-http://quitter.is:80,185.97.32.12,Sweden,lighttpd/1.4.35,1,0,0,100,2628,0,1
-http://stoned-vienna.com:80,77.244.243.24,Austria,Apache,4,0,1,29,169,0,1
-http://manutencao.net:80,177.101.148.220,Brazil,nginx,3,0,1,96,1048,8,1
-http://fonta.ru:80,90.156.201.107,Russian Federation,Apache,1,0,0,99,412,0,1
-http://commenceremplireseauorange.hostingsiteforfree.com:80,31.170.160.57,United States,Cowboy,23,1,0,1,40,0,1
-http://debbiegibsonnude983.pornblink.com:80,46.243.0.4,Czech Republic,nginx,8,1,0,91,4993,1,1
-http://1moment.tistory.com:80,175.126.170.70,Korea, Republic of,Apache,71,0,0,17,1331,5,1
-http://4chonnet.on.nimp.org:80,193.200.42.162,France,Apache/2.4.25,2,0,0,1,3,0,1
-http://www.emptyloop.com:80,50.63.197.139,United States,Microsoft-IIS/7.0,20,0,0,80,377,0,1
-http://buildbits.com.au:80,125.214.88.29,Australia,Unknown,21,0,0,21,1183,1,1
-http://mnxw4z3smvtwc5djn4.nruxmzlkn52xe3tbnqxgg33n.mbway.ru:80,178.63.68.137,Germany,nginx,28,0,0,12,570,2,1
-http://musikerforum-bremen.de:80,85.13.151.35,Germany,Apache,3,0,0,98,1235,0,1
-http://partitionpartly2109.blogspot.com:80,216.58.204.65,United States,GSE,2,53,0,32,934,2,1
-http://d26w5t6q32tb9z.cloudfront.net:80,52.222.168.93,United States,Apache/2.4.7,80,1,0,5,2,0,1
-http://www.natureskinshop.com:80,104.18.59.243,United States,cloudflare-nginx,42,0,0,3,0,0,1
-http://www.highpoint.net:80,216.162.1.213,United States,Microsoft-IIS/5.0,1,1,1,97,516,0,1
-http://aldocosta.com:80,195.110.124.188,Italy,Apache,1,0,0,8,1,0,1
-http://dusidusi.ru:80,31.163.204.57,Russian Federation,Apache/2.2.22,1,0,1,99,2114,3,1
-http://coreykrick.com:80,67.23.226.129,United States,Apache,2,0,0,0,0,0,1
-http://xn--b1aafdhhebk2aekjr0aq4o.xn--p1ai:80,5.101.152.64,Russian Federation,nginx-reuseport/1.11.10,1,0,0,86,25,2,1
-http://cilasmodels.com.br:80,200.98.196.55,Brazil,Microsoft-IIS/7.0,2,0,0,0,0,0,1
-http://oblast-tv.ru:80,185.60.135.198,Russian Federation,nginx/1.12.1,42,0,0,25,395,1,1
-http://rj.my1.ru:80,193.109.246.9,Virgin Islands, British,nginx/1.8.0,4,0,2,56,494,0,1
-http://headscarvesbyciara.co.uk:80,5.134.12.31,United Kingdom,LiteSpeed,1,0,0,100,3377,9,1
-http://donbass.name:80,5.101.152.26,Russian Federation,nginx-reuseport/1.11.10,74,0,0,22,5217,0,1
-http://myvegasfreechips.cyber-games.info:80,162.255.119.191,United States,gws,1,0,2,1,30,0,1
-http://mattdunmorephotography.com:80,216.97.235.60,United States,Apache/2.4.23,2,0,0,88,1034,8,1
-http://kaytrip.com:80,107.154.85.110,United States,Undefined,67,0,0,7,5420,0,1
-http://alessandrogalperti.com:80,62.149.128.166,Italy,Apache,1,0,1,99,147,20,1
-http://wahcareers.com:80,34.193.206.26,United States,Apache/2.4.10,1,0,0,80,159,0,1
-http://www.gyandarpan.com:80,216.58.204.83,United States,GSE,46,0,0,1,2887,0,1
-http://tweakbox.org:80,192.124.249.103,Canada,nginx,14,1,1,82,499,1,1
-http://nic.de:80,81.91.170.12,Germany,Apache,10,1,0,91,1160,0,1
-http://judym.poznan.pl:80,147.135.201.64,United States,LiteSpeed,7,0,1,93,163,9,1
-http://k-chin.mx:80,151.101.1.195,United States,nginx,1,0,1,22,37,0,1
-http://www.latin.or.id:80,50.22.185.177,United States,LiteSpeed,6,0,0,13,2,0,1
-http://www.qubes-os.org:80,104.25.151.101,United States,cloudflare-nginx,2,0,0,98,1100,1,1
-http://txccrystal.com:80,192.185.139.23,United States,United States,1,0,0,51,339,0,1
-http://porntcomic.com:80,104.31.91.38,United States,cloudflare-nginx,2,0,0,98,673,0,1
-http://attjkkjkk.hostingsiteforfree.com:80,31.170.160.57,United States,Cowboy,23,1,0,1,40,0,1
-http://casinosnooper.com:80,192.185.91.219,United States,nginx/1.12.1,1,0,0,30,170,5,1
-http://tutorialzine.com:80,104.28.26.139,United States,cloudflare-nginx,3,0,0,76,1866,16,1
-http://icasnetwork.com:80,144.217.208.236,United States,Apache,1,0,4,86,264,1,1
-http://femulate.org:80,216.21.224.199,United States,Unknown,1,0,0,50,1961,74,1
-http://kopiasz.w.interia.pl:80,217.74.66.161,Poland,Apache,2,0,1,56,87,0,1
-http://moutamadris.men.gov.ma:80,196.200.143.116,Morocco,BigIP,1,0,40,19,336,0,1
-http://www.jordansat4u.net:80,104.28.13.19,United States,cloudflare-nginx,1,0,0,99,3840,1,1
-http://walocete.tripod.com:80,209.202.252.95,United States,openresty/1.9.15.1,41,0,0,59,160,2,1
-http://fwprods.com:80,81.43.118.139,Spain,Microsoft-IIS/8.5,32,0,1,65,601,8,1
-http://3rock.ie:80,83.138.8.83,Ireland,Microsoft-IIS/6.0,1,0,0,5,10,0,1
-http://specializari.juridice.ro:80,138.201.83.169,Germany,Unknown,6,0,0,91,2293,2,1
-http://31.220.56.115:80,31.220.56.115,Germany,nginx,1,0,24,64,1070,0,1
-http://www.dbinfo24.de:80,134.0.25.147,Germany,Apache/2.4.26,3,0,0,2,0,0,1
-http://buyviagrahere.com:80,104.18.44.212,United States,cloudflare-nginx,5,0,1,5,1,0,1
-http://gfn.org:80,66.230.196.26,United States,Apache/2.2.22,1,0,0,100,832,0,1
-http://lamiform.com.ua:80,193.0.61.47,Ukraine,nginx/1.10.2,1,0,0,98,920,0,1
-http://www.gazete24.blogspot.com:80,216.58.204.65,United States,GSE,4,0,1,7,522,1,1
-http://freebigtitsforyou.blogspot.sg:80,216.58.204.65,United States,GSE,2,0,0,3,30,1,1
-http://01fragments.blogspot.ru:80,216.58.204.65,United States,GSE,5,0,0,6,302,1,1
-http://fullscholarships.info:80,50.62.172.157,United States,Unknown,1,1,0,99,2609,0,1
-http://fetichismo.free.fr:80,212.27.63.132,France,Apache/ProXad,1,0,0,20,85,0,1
-http://medieval.it:80,93.95.217.51,Italy,Apache,1,0,2,94,1066,1,1
-http://martelliracing.it:80,213.183.128.145,Italy,Apache/2.2.22,1,0,0,100,398,0,1
-http://mitrucco.altervista.org:80,85.10.198.168,Germany,Apache,1,0,0,94,544,1,1
-http://starwarsrp.net:80,50.116.36.13,United States,nginx,3,0,0,46,2538,0,1
-http://www.playretrogames.com:80,104.24.17.91,United States,cloudflare-nginx,1,0,0,100,1928,0,1
-http://aarthiscan.com:80,108.167.141.132,United States,nginx/1.12.1,1,0,3,96,475,3,1
-http://67.199.50.113:80,67.199.50.113,United States,Microsoft-IIS/6.0,7,0,0,41,29,0,1
-http://htcmagazine.com:80,94.102.4.195,Turkey,Apache,6,0,0,94,209,2,1
-http://stk.lille.free.fr:80,212.27.63.106,France,Apache/ProXad,1,0,0,3,55,2,1
-http://park.above.com:80,103.224.212.241,Australia,Apache,2,1,0,0,2,0,1
-http://www.fanqianglu.com:80,107.180.98.172,United States,Apache,3,0,1,94,3206,0,1
-http://webdw.hibor.com.cn:80,113.31.82.198,China,Microsoft-IIS/7.5,2,0,0,99,439,0,1
-http://pizzariafamiliafranco.com:80,191.252.104.232,Brazil,Unknown,1,0,0,79,128,0,1
-http://buttexarx.ru:80,141.8.192.170,Russian Federation,nginx,82,0,0,18,1630,0,1
-http://wealthmarkadvisors.com:80,50.62.88.95,United States,Unknown,1,0,0,96,726,2,1
-http://iblog.at:80,74.3.166.119,Canada,Apache,4,0,0,83,6254,9,1
-http://traderlink.it:80,213.92.13.23,Italy,Apache,1,0,0,100,1384,3,1
-http://033005.com:80,104.27.146.67,United States,Microsoft-IIS/8.5,40,0,0,61,156,0,1
-http://www.achigan.net:80,91.121.59.96,France,nginx/1.0.14,7,0,0,93,968,3,1
-http://www.sqlite.org:80,45.33.6.223,United States,Unknown,1,0,6,93,3381,0,1
-http://www.chevalblanc-patrimoine.fr:80,213.186.33.50,France,Apache,33,0,0,68,60,0,1
-http://sait-5-ballov.ru:80,80.78.250.103,Russian Federation,nginx/1.10.2,4,0,1,95,802,0,1
-http://datatracker.ietf.org:80,4.31.198.44,United States,Apache,95,0,0,6,7130,0,1
-http://www.assostampaferrara.it:80,93.51.169.214,Italy,Microsoft-IIS/8.5,5,0,0,3,379,1,1
-http://comprasvip.es:80,85.31.129.246,Spain,Apache,1,0,0,99,994,0,1
-http://www.frmartuklu.net:80,85.95.237.169,Turkey,Unknown,1,0,1,100,3225,1,1
-http://touran-club.ru:80,5.9.107.149,Germany,nginx,2,0,0,98,998,2,1
-http://icicibank.lk:80,203.27.235.25,India,Unknown,1,0,1,99,221,4,1
-http://bettencourtmd.com:80,192.185.105.197,United States,nginx/1.12.1,1,0,0,2,0,2,1
-http://aptus.co.mz:80,196.10.148.165,Mozambique,nginx,31,0,0,68,271,0,1
-http://technogerms.com:80,108.167.183.247,United States,nginx/1.12.1,2,0,0,98,2682,23,1
-http://vintagexnxx.com:80,95.211.199.180,Netherlands,nginx/1.8.0,4,4,0,67,10038,0,1
-http://gambling-guru.com:80,70.32.82.221,United States,Apache,10,0,0,28,664,9,1
-http://litstart.ru:80,85.25.201.182,Germany,nginx,1,0,0,5,0,0,1
-http://xxxgroupsex.com:80,67.23.113.146,United States,Apache/2.2.15,41,0,0,60,16162,3,1
-http://www.bildblog.de:80,89.238.75.226,Germany,lighttpd/1.4.35,2,0,1,97,2078,124,1
+,Server,0,0,0,0,3254,0,no,0
+latimes.com/,192.187.93.86,United States,Apache-Coyote/1.1,0,0,0,0,1258,0,no,0
+npr.org/,216.35.221.76,United States,Apache,0,0,0,0,987,0,no,0
+opera.com/,82.145.215.49,Great Britain,Unknown,0,0,0,0,584,0,no,0
+dailymotion.com/,195.8.215.136,France(FR),DMS/1.0.42,0,0,0,0,654,0,no,0
+blogspot.co.uk/,172.217.18.73,Hungary(HU),gws,0,0,0,0,456,0,no,0
+cpanel.net/,208.74.121.51,United States,Apache,0,0,0,0,258,0,no,0
+google.it/,172.217.20.195,Poland(PL),gws,0,0,0,0,325,0,no,0
+bbb.org/,216.52.119.101,United States,unknown,0,0,0,0,4215,0,no,0
+icio.us/,107.181.87.5,United States,nginx/1.6.2 (Ubuntu),0,0,0,0,1254,0,no,0
+tripadvisor.com/,192.229.162.112,United States,Apache,0,0,0,0,168,0,no,0
+hatena.ne.jp/,59.106.194.19,Japan(JP),nginx,0,0,0,0,1785,0,no,0
+list-manage.com/,205.201.132.96,United States,openresty,0,0,0,0,145,0,no,0
+guardian.co.uk/,151.101.0.233,United States,Unknown,0,0,0,0,136,0,no,0
+mit.edu/,104.86.40.160,Poland(PL),Apache/1.3.41 (Unix) mod_ssl/2.8.31 OpenSSL/0.9.8j,0,0,0,0,13682,0,no,0
+surveymonkey.com/,75.98.93.51,United States,nginx,0,0,0,0,2358,0,no,0
+rambler.ru/,81.19.82.9,Great Britain,nginx,0,0,0,0,5487,0,no,0
+elegantthemes.com/,192.124.249.10,United States,nginx,0,0,0,0,2542,0,no,0
+bandcamp.com/,151.101.129.28,United States,nginx,0,0,0,0,0,0,no,0
+cpanel.com/,208.74.123.68,United States,Apache,0,0,0,0,124,0,no,0
+amazon.co.jp/,54.240.248.0,United States,Server,0,0,0,0,43,0,no,0
+doubleclick.net/,172.217.20.174,Poland(PL),Google Frontend,0,0,0,0,30,0,no,0
+gnu.org/,208.118.235.148,United States,Apache/2.4.7,0,0,0,0,268,0,no,0
+apache.org/,140.211.11.105,United States,Apache/2.4.7 (Ubuntu),0,0,0,0,99,0,no,0
+google.fr/,172.217.20.195,Poland(PL),gws,0,0,0,0,256,0,no,0
+stanford.edu/,171.67.215.200,United States,nginx/1.13.3,0,0,0,0,248,0,no,0
+domainactive.co/,98.124.245.47,United States,Apache,0,0,0,0,5487,0,no,0
+businessinsider.com/,151.101.0.64,United States,Apache/2.2.22 (Ubuntu),0,0,0,0,2356,0,no,0
+joomla.org/,72.29.124.146,United States,LiteSpeed,0,0,0,0,85241,0,no,0
+wired.com/,151.101.1.63,United States,Unknown,0,0,0,0,231,0,no,0
+kickstarter.com/,52.85.183.180,Germany(DE),nginx,0,0,0,0,1,0,no,0
+bbc.com/,212.58.244.22,Great Britain,Apache,0,0,0,0,358,0,no,0
+geocities.com/,98.139.206.27,United States,ATS,0,0,0,0,3256,0,no,0
+nasa.gov/,52.0.14.116,United States,AmazonS3,0,0,0,0,2547,0,no,0
+google.es/,172.217.20.195,Poland(PL),gws,0,0,0,0,3054,0,no,0
+behance.net/,151.101.1.197,United States,nginx,0,0,0,0,289,0,no,0
+independent.co.uk/,151.101.129.184,United States,nginx,0,0,0,0,987,0,no,0
+medium.com/,104.16.124.127,United States,cloudflare-nginx,0,0,0,0,758,0,no,0
+http://mtarchitecte.com:80,64.18.191.20,Canada,Apache,3,0,0,98,413,0,no,1
+http://womoz.org:80,188.165.242.92,France,Apache/2.4.10,1,0,0,99,773,2,no,1
+http://according-to-kelly.com:80,192.254.234.132,United States,nginx/1.12.1,2,3,0,95,3661,7,no,1
+http://recsjpn.com:80,160.16.95.166,Japan,unknown,1,0,0,24,129,4,no,1
+http://stracap.jp:80,210.224.185.62,Japan,Unknown,8,0,0,74,492,2,yes,1
+http://xxxgroupsex.com:80,67.23.113.146,United States,Apache/2.2.15,41,0,0,60,16162,3,no,1
+http://nusanaga.blogspot.sg:80,216.58.198.225,United States,GSE,9,0,0,4,5,1,no,1
+http://np.gorkhapost.com:80,209.140.31.229,United States,Apache,6,0,0,82,192,1,yes,1
+http://www.newsflash.pk:80,192.254.237.104,United States,nginx/1.12.1,5,0,0,9,6373,1,no,1
+http://www.atube.me:80,149.56.18.3,United States,Apache/2.4.6,14,0,4,18,133,0,no,1
+http://giftthebest.com:80,162.144.142.208,United States,Apache,27,0,1,16,1034,1,yes,1
+http://wr-cheats.com:80,104.27.149.173, United States,cloudflare-nginx,9,0,2,84,480,0,no,1
+http://informacionjuridica.com:80, 193.70.113.22,Italy,Apache/2.4.10,1,0,0,3,0,0,no,1
+http://www.otokursurucukursu.com:80,157.7.107.159,Japan,Apache,1,0,1,38,53,0,no,1
+http://phimsexmoinhat2013.blogspot.com:80,216.58.198.225,United States,GSE,26,0,0,4,406,1,no,1
+http://www.madtubes.com:80,88.208.19.56,Netherlands,nginx/1.10.2,1,0,0,5,1024,0,no,1
+http://english.com.tw:80,198.1.78.232,United States,nginx,3,0,0,98,1174,2,yes,1
+http://silive.com:80,216.146.46.10,United States,nginx/1.6.2,2,0,1,89,1569,1,no,1
+http://portaltloficial.blogspot.com.br:80,216.58.198.225,United States,GSE,4,0,0,4,5,1,no,1
+http://www.onepluscapital.net:80,195.14.149.5,Cyprus,Microsoft-IIS/7.5,11,0,0,83,203,2,no,1
+http://hotelandresortreservations.com:80,65.75.149.196,United States,nginx,4,0,0,96,264,0,no,1
+http://www.thruthelensmagic.com:80,67.20.85.51,United States,nginx/1.12.1,70,0,0,31,263,0,no,1
+http://rochak.com.np:80,104.219.248.7,United States,Apache,12,0,0,31,37,1,no,1
+http://preferredwindowanddoor.com:80,67.227.188.213,United States,Apache/2.4.27,1,0,0,100,838,9,no,1
+http://melvinflex.com:80,104.27.160.189,United States,cloudflare-nginx,59,0,0,3,300,2,yes,1
+http://unfabrikasi.com:80,99.198.101.234,United States,Apache,1,0,0,29,37,0,no,1
+http://www.belcitymall.ru:80,91.228.230.3,Russian Federation,Apache/2.4.10,2,0,0,88,713,0,no,1
+http://navicat-mysql-manager-lite.soft32.com:80,52.85.74.246,United States,nginx,10,0,1,10,125,1,no,1
+http://rango-hack.ru:80,104.18.58.133,United States,cloudflare-nginx,1,0,0,99,3704,2,no,1
+http://www.yancpsmart31.blogspot.com:80,216.58.198.225,United States,GSE,8,0,1,4,306,2,no,1
+http://www.ooo-blagodat.ru:80,90.156.201.55,Russian Federation,Apache,1,0,1,99,529,0,no,1
+http://videology.com:80,216.177.143.4,United States,Apache,11,0,0,25,24,0,no,1
+http://www.teleyol.com:80,104.24.112.47,United States,cloudflare-nginx,37,0,0,53,51,1,no,1
+http://freewarebox.com:80,63.141.248.18,United States,Apache/2.2.15,5,0,0,95,5625,1,no,1
+www.vokrugsveta.ru:80,195.226.222.59,Russian Federation,nginx,83,0,1,12,186,1,no,1
+http://www.protv.ro:80,185.133.64.67,Russian Federation,nginx,1,0,0,82,2441,5,no,1
+http://2captcha.com:80,89.108.117.181,Russian Federation, nginx/1.10.1,1,0,1,99,373,6,no,1
+http://powerpoint-to-screensaver-converter.soft32.com:80,52.85.74.209,United States,nginx,13,0,1,10,130,1,no,1
+http://sexyi.am:80,31.170.163.180,United States,Cowboy,1,1,0,1,40,0,no,1
+http://freddym.fr:80,217.160.233.174,Germany,GSE,32,0,0,6,1614,15,no,1
+http://www.lemondeinformatique.fr:80,91.121.46.164,France,Apache,7,0,0,93,1395,1,no,1
+http://mega-porno.me:80,95.211.199.134,Netherlands,nginx/1.0.15,96,0,0,4,0,0,no,1
+http://rkisam.edu.bd:80,192.232.236.241,United States,Apache,57,0,0,37,659,0,no,1
+http://notiziariocalcio.com:80,31.14.143.14,Romania,Apache,87,0,0,10,2375,4,no,1
+http://botskool.com:80,104.28.18.122,United States,cloudflare-nginx,12,0,0,58,1595,32,no,1
+http://apune.org:80,46.105.103.140,France,Apache/2.2.14,1,0,5,92,679,0,no,1
+http://aprendizajedivertido.com.mx:80,162.210.98.48,United States,Apache,1,0,1,99,299,0,no,1
+http://aprendiendocivicayetica.jimdo.com:80,52.51.157.99,United States,nginx,1,0,0,47,922,64,no,1
+http://mtarchitecte.com:80,64.18.191.20,Canada,Apache,3,0,0,98,413,0,no,1
+http://womoz.org:80,188.165.242.92,France,Apache/2.4.10,1,0,0,99,773,2,no,1
+http://according-to-kelly.com:80,192.254.234.132,United States,nginx/1.12.1,2,3,0,95,3661,7,no,1
+http://wenku.baidu.com:80,103.235.47.122,Hong Kong,Undefined,26,0,1,68,7556,0,no,1
+http://usafastproxy.info:80,192.249.57.112,United States,nginx/1.8.1,6,0,3,5,77,0,no,1
+http://ej-ymca.org:80,192.254.232.252,United States,nginx/1.12.1,1,0,2,97,807,4,no,1
+http://www.myzte.ru:80,91.239.142.90,Russian Federation,nginx/1.10.2,1,0,2,97,1676,7,no,1
+http://pianofx-studio.soft32.com:80,54.192.2.46,United States,nginx,10,0,1,8,118,1,no,1
+http://up.arabseyes.com:80,85.25.41.107,Germany,Apache,1,0,0,39,45,0,no,1
+http://star.tga.plu.cn:80,203.130.58.30,China,nginx,3,1,0,24,850,0,no,1
+http://pageyourself.com:80,94.23.201.38,France,nginx,2,0,0,84,415,0,no,1
+http://www.mcmacademy.in:80,148.66.136.210,United States,Apache,2,0,4,94,617,4,no,1
+http://chimneybazar.com:80,103.21.59.146,India,Apache,22,0,0,15,42,1,no,1
+http://cnlpaltogo.tg:80,64.235.54.84,United States,Apache,2,0,0,38,42,0,no,1
+http://proshow-gold.soft32.com:80,54.192.2.179,United States,nginx,32,0,1,9,246,1,no,1
+http://giveawayarena.com:80,103.211.216.29,India,Apache,3,0,58,16,731,17,no,1
+http://asiajizz.blogspot.com:80,216.58.204.65,United States,GSE,41,0,0,38,207,4,no,1
+http://ceteco.vn:80,118.69.204.208,Viet Nam,Unknown,50,0,0,45,175,0,no,1
+http://www.filehorse.com:80,162.210.198.9,United States,Apache,1,0,0,99,3162,24,no,1
+http://www.zip.org:80,121.254.160.231,Korea, Republic of,Microsoft-IIS/6.0,2,0,0,2,196,0,no,1
+http://domiki43.ru:80,81.177.140.11,Russian Federation,Jino.ru/mod_pizza,1,0,8,81,97,13,no,1
+http://avantlink.com:80,52.21.59.80,United States,nginx/1.10.0,1,0,1,96,1006,1,no,1
+http://www.lauzau.com:80,204.210.167.66,United States,Microsoft-IIS/10.0,39,0,0,59,116,16,no,1
+http://joywaychinese.com:80,173.83.102.2,United States,Apache,1,0,0,0,4,0,no,1
+http://www.appuifle.net:80,82.98.151.210,Spain,HTTPd,1,0,0,99,874,4,no,1
+http://dominatuorgasmo.com:80,184.154.46.216,United States,LiteSpeed,2,0,0,28,21,0,no,1
+http://oceanofgames.wordpress.com:80,192.0.78.12,United States,nginx,4,0,2,93,488,4,no,1
+http://es.osdn.net:80,202.221.179.17,Japan,Apache/2.4.25,3,0,0,112,6222,0,no,1
+http://www.restoran.us:80,199.204.248.106,United States,Apache,4,0,0,94,1335,3,no,1
+http://egy4tec.com:80,176.9.114.138,Germany,Apache,1,0,8,53,2214,0,no,1
+http://statmyweb.com:80,169.53.20.68,United States,cloudflare-nginx,1,0,0,97,9632,1,no,1
+http://hygoandroid.com:80,216.239.32.21,United States,GSE,15,34,0,27,4,1,no,1
+http://athletics.sfu.ca:80,206.225.94.89,United States,Microsoft-IIS/8.5,1,0,14,85,1994,9,no,1
+http://solobicycle.com:80,47.88.15.12,United States,nginx,89,0,0,11,47,3,no,1
+http://comparitech.com:80,148.251.186.217,Germany,nginx,1,0,0,100,1973,110,no,1
+http://iiftindia.net:80,198.136.54.80,United States,Apache,2,0,0,0,0,0,no,1
+http://www.economysollar.com.br:80,216.58.204.83,United States,GSE,42,0,0,19,5,1,no,1
+http://wowteenporn.com:80,213.174.151.25,Netherlands,Apache/2.2.25,1,5,0,42,12174,8,no,1
+http://valencianews.ru:80,141.8.192.70,Russian Federation,nginx,4,1,1,91,239,1,no,1
+http://m.liberation.fr:80,91.194.205.17,Netherlands,PWS/8.3.0.8,56,0,0,5,1,0,no,1
+http://odkazzdarma.info:80,37.77.255.110,Czech Republic,Apache/2.2.22,1,0,0,98,2324,0,no,1
+http://www.anjodaguarda.com.br:80,189.1.170.35,Brazil,Apache,74,0,1,22,488,1,no,1
+http://www.appspeed.nl:80,83.137.194.46,Netherlands,Apache,1,0,0,60,69,0,no,1
+http://serenitynow.ws:80,97.74.215.144,United States,Apache,1,0,0,4,0,0,no,1
+http://wiimmfi.de:80,46.4.79.141,Germany,Apache/2.4.6,13,0,0,88,758,0,no,1
+http://esglobal.co.il:80,182.50.146.128,Singapore,Apache,52,0,0,42,6,1,no,1
+http://thetechgeek.com:80,198.57.151.207,United States,nginx/1.12.1,23,0,0,77,759,5,no,1
+http://www.sisfec.upm.edu.my:80,119.40.117.152,Malaysia,Apache/2.2.15,12,0,0,88,47,0,no,1
+http://www.stcountryaviation.com:80,74.220.207.151,United States,nginx/1.12.1,24,0,0,15,71,0,no,1
+http://blue2310.tistory.com:80,175.126.170.70,Korea, Republic of,Apache,94,0,0,7,1788,1,no,1
+http://newpissing.com:80,95.211.216.86,Netherlands,nginx/1.1.19,4,0,2,82,11396,21,no,1
+http://searchnewscentral.com:80,184.154.242.23,United States,nginx,2,0,0,96,820,5,no,1
+http://mosaicco.com.au:80,116.0.21.223,Australia,LiteSpeed,55,0,0,9,1353,1,yes,1
+http://gemorroy.org:80,69.197.159.54,United States,Apache,14,0,0,87,398,0,no,1
+http://rooreynolds.com:80,92.48.98.6,United Kingdom,Unknown,85,0,1,15,3044,1,no,1
+http://naacpldf.org:80,50.28.37.86,United States,nginx,1,0,2,98,2106,12,no,1
+http://lavieblog.pixnet.net:80,103.23.108.220,Taiwan, Province of China,Unknown,33,0,18,44,1826,7,no,1
+http://gamingalmanac.justclick.ru:80,178.248.232.100,Russian Federation,QRATOR,1,0,0,17,13,1,no,1
+http://quitter.is:80,185.97.32.12,Sweden,lighttpd/1.4.35,1,0,0,100,2628,0,no,1
+http://stoned-vienna.com:80,77.244.243.24,Austria,Apache,4,0,1,29,169,0,no,1
+http://manutencao.net:80,177.101.148.220,Brazil,nginx,3,0,1,96,1048,8,no,1
+http://fonta.ru:80,90.156.201.107,Russian Federation,Apache,1,0,0,99,412,0,no,1
+http://commenceremplireseauorange.hostingsiteforfree.com:80,31.170.160.57,United States,Cowboy,23,1,0,1,40,0,no,1
+http://debbiegibsonnude983.pornblink.com:80,46.243.0.4,Czech Republic,nginx,8,1,0,91,4993,1,no,1
+http://1moment.tistory.com:80,175.126.170.70,Korea, Republic of,Apache,71,0,0,17,1331,5,no,1
+http://4chonnet.on.nimp.org:80,193.200.42.162,France,Apache/2.4.25,2,0,0,1,3,0,yes,1
+http://www.emptyloop.com:80,50.63.197.139,United States,Microsoft-IIS/7.0,20,0,0,80,377,0,no,1
+http://buildbits.com.au:80,125.214.88.29,Australia,Unknown,21,0,0,21,1183,1,yes,1
+http://mnxw4z3smvtwc5djn4.nruxmzlkn52xe3tbnqxgg33n.mbway.ru:80,178.63.68.137,Germany,nginx,28,0,0,12,570,2,no,1
+http://musikerforum-bremen.de:80,85.13.151.35,Germany,Apache,3,0,0,98,1235,0,no,1
+http://partitionpartly2109.blogspot.com:80,216.58.204.65,United States,GSE,2,53,0,32,934,2,no,1
+http://d26w5t6q32tb9z.cloudfront.net:80,52.222.168.93,United States,Apache/2.4.7,80,1,0,5,2,0,no,1
+http://www.natureskinshop.com:80,104.18.59.243,United States,cloudflare-nginx,42,0,0,3,0,0,yes,1
+http://www.highpoint.net:80,216.162.1.213,United States,Microsoft-IIS/5.0,1,1,1,97,516,0,no,1
+http://aldocosta.com:80,195.110.124.188,Italy,Apache,1,0,0,8,1,0,no,1
+http://dusidusi.ru:80,31.163.204.57,Russian Federation,Apache/2.2.22,1,0,1,99,2114,3,no,1
+http://coreykrick.com:80,67.23.226.129,United States,Apache,2,0,0,0,0,0,yes,1
+http://xn--b1aafdhhebk2aekjr0aq4o.xn--p1ai:80,5.101.152.64,Russian Federation,nginx-reuseport/1.11.10,1,0,0,86,25,2,no,1
+http://cilasmodels.com.br:80,200.98.196.55,Brazil,Microsoft-IIS/7.0,2,0,0,0,0,0,no,1
+http://oblast-tv.ru:80,185.60.135.198,Russian Federation,nginx/1.12.1,42,0,0,25,395,1,yes,1
+http://rj.my1.ru:80,193.109.246.9,Virgin Islands, British,nginx/1.8.0,4,0,2,56,494,0,no,1
+http://headscarvesbyciara.co.uk:80,5.134.12.31,United Kingdom,LiteSpeed,1,0,0,100,3377,9,no,1
+http://donbass.name:80,5.101.152.26,Russian Federation,nginx-reuseport/1.11.10,74,0,0,22,5217,0,no,1
+http://myvegasfreechips.cyber-games.info:80,162.255.119.191,United States,gws,1,0,2,1,30,0,no,1
+http://mattdunmorephotography.com:80,216.97.235.60,United States,Apache/2.4.23,2,0,0,88,1034,8,no,1
+http://kaytrip.com:80,107.154.85.110,United States,Undefined,67,0,0,7,5420,0,no,1
+http://alessandrogalperti.com:80,62.149.128.166,Italy,Apache,1,0,1,99,147,20,no,1
+http://wahcareers.com:80,34.193.206.26,United States,Apache/2.4.10,1,0,0,80,159,0,no,1
+http://www.gyandarpan.com:80,216.58.204.83,United States,GSE,46,0,0,1,2887,0,no,1
+http://tweakbox.org:80,192.124.249.103,Canada,nginx,14,1,1,82,499,1,no,1
+http://nic.de:80,81.91.170.12,Germany,Apache,10,1,0,91,1160,0,no,1
+http://judym.poznan.pl:80,147.135.201.64,United States,LiteSpeed,7,0,1,93,163,9,no,1
+http://k-chin.mx:80,151.101.1.195,United States,nginx,1,0,1,22,37,0,no,1
+http://www.latin.or.id:80,50.22.185.177,United States,LiteSpeed,6,0,0,13,2,0,no,1
+http://www.qubes-os.org:80,104.25.151.101,United States,cloudflare-nginx,2,0,0,98,1100,1,no,1
+http://txccrystal.com:80,192.185.139.23,United States,United States,1,0,0,51,339,0,no,1
+http://porntcomic.com:80,104.31.91.38,United States,cloudflare-nginx,2,0,0,98,673,0,no,1
+http://attjkkjkk.hostingsiteforfree.com:80,31.170.160.57,United States,Cowboy,23,1,0,1,40,0,no,1
+http://casinosnooper.com:80,192.185.91.219,United States,nginx/1.12.1,1,0,0,30,170,5,no,1
+http://tutorialzine.com:80,104.28.26.139,United States,cloudflare-nginx,3,0,0,76,1866,16,no,1
+http://icasnetwork.com:80,144.217.208.236,United States,Apache,1,0,4,86,264,1,no,1
+http://femulate.org:80,216.21.224.199,United States,Unknown,1,0,0,50,1961,74,no,1
+http://kopiasz.w.interia.pl:80,217.74.66.161,Poland,Apache,2,0,1,56,87,0,no,1
+http://moutamadris.men.gov.ma:80,196.200.143.116,Morocco,BigIP,1,0,40,19,336,0,no,1
+http://www.jordansat4u.net:80,104.28.13.19,United States,cloudflare-nginx,1,0,0,99,3840,1,no,1
+http://walocete.tripod.com:80,209.202.252.95,United States,openresty/1.9.15.1,41,0,0,59,160,2,yes,1
+http://fwprods.com:80,81.43.118.139,Spain,Microsoft-IIS/8.5,32,0,1,65,601,8,no,1
+http://3rock.ie:80,83.138.8.83,Ireland,Microsoft-IIS/6.0,1,0,0,5,10,0,no,1
+http://specializari.juridice.ro:80,138.201.83.169,Germany,Unknown,6,0,0,91,2293,2,no,1
+http://31.220.56.115:80,31.220.56.115,Germany,nginx,1,0,24,64,1070,0,no,1
+http://www.dbinfo24.de:80,134.0.25.147,Germany,Apache/2.4.26,3,0,0,2,0,0,yes,1
+http://buyviagrahere.com:80,104.18.44.212,United States,cloudflare-nginx,5,0,1,5,1,0,no,1
+http://gfn.org:80,66.230.196.26,United States,Apache/2.2.22,1,0,0,100,832,0,no,1
+http://lamiform.com.ua:80,193.0.61.47,Ukraine,nginx/1.10.2,1,0,0,98,920,0,no,1
+http://www.gazete24.blogspot.com:80,216.58.204.65,United States,GSE,4,0,1,7,522,1,no,1
+http://freebigtitsforyou.blogspot.sg:80,216.58.204.65,United States,GSE,2,0,0,3,30,1,no,1
+http://01fragments.blogspot.ru:80,216.58.204.65,United States,GSE,5,0,0,6,302,1,no,1
+http://fullscholarships.info:80,50.62.172.157,United States,Unknown,1,1,0,99,2609,0,no,1
+http://fetichismo.free.fr:80,212.27.63.132,France,Apache/ProXad,1,0,0,20,85,0,no,1
+http://medieval.it:80,93.95.217.51,Italy,Apache,1,0,2,94,1066,1,no,1
+http://martelliracing.it:80,213.183.128.145,Italy,Apache/2.2.22,1,0,0,100,398,0,no,1
+http://mitrucco.altervista.org:80,85.10.198.168,Germany,Apache,1,0,0,94,544,1,yes,1
+http://starwarsrp.net:80,50.116.36.13,United States,nginx,3,0,0,46,2538,0,yes,1
+http://www.playretrogames.com:80,104.24.17.91,United States,cloudflare-nginx,1,0,0,100,1928,0,no,1
+http://aarthiscan.com:80,108.167.141.132,United States,nginx/1.12.1,1,0,3,96,475,3,no,1
+http://67.199.50.113:80,67.199.50.113,United States,Microsoft-IIS/6.0,7,0,0,41,29,0,yes,1
+http://htcmagazine.com:80,94.102.4.195,Turkey,Apache,6,0,0,94,209,2,no,1
+http://stk.lille.free.fr:80,212.27.63.106,France,Apache/ProXad,1,0,0,3,55,2,yes,1
+http://park.above.com:80,103.224.212.241,Australia,Apache,2,1,0,0,2,0,no,1
+http://www.fanqianglu.com:80,107.180.98.172,United States,Apache,3,0,1,94,3206,0,no,1
+http://webdw.hibor.com.cn:80,113.31.82.198,China,Microsoft-IIS/7.5,2,0,0,99,439,0,no,1
+http://pizzariafamiliafranco.com:80,191.252.104.232,Brazil,Unknown,1,0,0,79,128,0,no,1
+http://buttexarx.ru:80,141.8.192.170,Russian Federation,nginx,82,0,0,18,1630,0,no,1
+http://wealthmarkadvisors.com:80,50.62.88.95,United States,Unknown,1,0,0,96,726,2,no,1
+http://iblog.at:80,74.3.166.119,Canada,Apache,4,0,0,83,6254,9,no,1
+http://traderlink.it:80,213.92.13.23,Italy,Apache,1,0,0,100,1384,3,no,1
+http://033005.com:80,104.27.146.67,United States,Microsoft-IIS/8.5,40,0,0,61,156,0,no,1
+http://www.achigan.net:80,91.121.59.96,France,nginx/1.0.14,7,0,0,93,968,3,no,1
+http://www.sqlite.org:80,45.33.6.223,United States,Unknown,1,0,6,93,3381,0,no,1
+http://www.chevalblanc-patrimoine.fr:80,213.186.33.50,France,Apache,33,0,0,68,60,0,no,1
+http://sait-5-ballov.ru:80,80.78.250.103,Russian Federation,nginx/1.10.2,4,0,1,95,802,0,no,1
+http://datatracker.ietf.org:80,4.31.198.44,United States,Apache,95,0,0,6,7130,0,no,1
+http://www.assostampaferrara.it:80,93.51.169.214,Italy,Microsoft-IIS/8.5,5,0,0,3,379,1,no,1
+http://comprasvip.es:80,85.31.129.246,Spain,Apache,1,0,0,99,994,0,no,1
+http://www.frmartuklu.net:80,85.95.237.169,Turkey,Unknown,1,0,1,100,3225,1,no,1
+http://touran-club.ru:80,5.9.107.149,Germany,nginx,2,0,0,98,998,2,no,1
+http://icicibank.lk:80,203.27.235.25,India,Unknown,1,0,1,99,221,4,no,1
+http://bettencourtmd.com:80,192.185.105.197,United States,nginx/1.12.1,1,0,0,2,0,2,no,1
+http://aptus.co.mz:80,196.10.148.165,Mozambique,nginx,31,0,0,68,271,0,no,1
+http://technogerms.com:80,108.167.183.247,United States,nginx/1.12.1,2,0,0,98,2682,23,no,1
+http://vintagexnxx.com:80,95.211.199.180,Netherlands,nginx/1.8.0,4,4,0,67,10038,0,no,1
+http://gambling-guru.com:80,70.32.82.221,United States,Apache,10,0,0,28,664,9,no,1
+http://litstart.ru:80,85.25.201.182,Germany,nginx,1,0,0,5,0,0,no,1
+http://xxxgroupsex.com:80,67.23.113.146,United States,Apache/2.2.15,41,0,0,60,16162,3,no,1
+http://www.bildblog.de:80,89.238.75.226,Germany,lighttpd/1.4.35,2,0,1,97,2078,124,no,1

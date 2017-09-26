@@ -31,7 +31,7 @@ def read_csv():
 
 	for b_urls in b_data.itertuples():
 		buff=""
-		for index,x in enumerate(feature_columns_to_use):
+		for index in range(0,len(feature_columns_to_use)+1):
 			if index!=0:
 				buff+=str(b_urls[index])+","
 		buff+="0"
@@ -39,7 +39,7 @@ def read_csv():
 
 	for m_urls in m_data.itertuples():
 		buff=""
-		for index,x in enumerate(feature_columns_to_use):
+		for index in range(0,len(feature_columns_to_use)+1):
 			if index!=0:
 				buff+=str(m_urls[index])+","
 		buff+="1"

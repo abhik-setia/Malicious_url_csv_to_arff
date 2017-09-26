@@ -1,6 +1,6 @@
 Malicious_website,Server_Ip_address,Country,Server,Malicious_files,Suspicious_files,Potentially_Suspicious_files,Clean_files,External_links_detected,Iframes_scanned,Blacklisted
-http://mtarchitecte.com:80,64.18.191.20,Canada,Apache,3,0,0,98,413,0,No
-http://womoz.org:80,188.165.242.92,France,Apache/2.4.10,1,0,0,99,773,2,No
+http://mtarchitecte.com:80,64.18.191.20,Canada,Apache,3,0,0,98,413,0,no
+http://womoz.org:80,188.165.242.92,France,Apache/2.4.10,1,0,0,99,773,2,no
 http://according-to-kelly.com:80,192.254.234.132,United States,nginx/1.12.1,2,3,0,95,3661,7,no
 http://recsjpn.com:80,160.16.95.166,Japan,unknown,1,0,0,24,129,4,no
 http://stracap.jp:80,210.224.185.62,Japan,Unknown,8,0,0,74,492,2,yes
@@ -17,9 +17,9 @@ http://phimsexmoinhat2013.blogspot.com:80,216.58.198.225,United States,GSE,26,0,
 http://www.madtubes.com:80,88.208.19.56,Netherlands,nginx/1.10.2,1,0,0,5,1024,0,no
 http://english.com.tw:80,198.1.78.232,United States,nginx,3,0,0,98,1174,2,yes
 http://silive.com:80,216.146.46.10,United States,nginx/1.6.2,2,0,1,89,1569,1,no
-http://portaltloficial.blogspot.com.br:80,216.58.198.225,United States,GSE,4,0,0,4,5,1,No
+http://portaltloficial.blogspot.com.br:80,216.58.198.225,United States,GSE,4,0,0,4,5,1,no
 http://www.onepluscapital.net:80,195.14.149.5,Cyprus,Microsoft-IIS/7.5,11,0,0,83,203,2,no
-http://hotelandresortreservations.com:80,65.75.149.196,United States,nginx,4,0,0,96,264,0,NO
+http://hotelandresortreservations.com:80,65.75.149.196,United States,nginx,4,0,0,96,264,0,no
 http://www.thruthelensmagic.com:80,67.20.85.51,United States,nginx/1.12.1,70,0,0,31,263,0,no
 http://rochak.com.np:80,104.219.248.7,United States,Apache,12,0,0,31,37,1,no
 http://preferredwindowanddoor.com:80,67.227.188.213,United States,Apache/2.4.27,1,0,0,100,838,9,no
@@ -55,7 +55,7 @@ http://usafastproxy.info:80,192.249.57.112,United States,nginx/1.8.1,6,0,3,5,77,
 http://ej-ymca.org:80,192.254.232.252,United States,nginx/1.12.1,1,0,2,97,807,4,no
 http://www.myzte.ru:80,91.239.142.90,Russian Federation,nginx/1.10.2,1,0,2,97,1676,7,no
 http://pianofx-studio.soft32.com:80,54.192.2.46,United States,nginx,10,0,1,8,118,1,no
-http://up.arabseyes.com:80,85.25.41.107,Germany,Apache,1,0,0,39,45,0,NO
+http://up.arabseyes.com:80,85.25.41.107,Germany,Apache,1,0,0,39,45,0,no
 http://star.tga.plu.cn:80,203.130.58.30,China,nginx,3,1,0,24,850,0,no
 http://pageyourself.com:80,94.23.201.38,France,nginx,2,0,0,84,415,0,no
 http://www.mcmacademy.in:80,148.66.136.210,United States,Apache,2,0,4,94,617,4,no
